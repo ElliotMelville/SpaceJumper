@@ -1,0 +1,10 @@
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\obj\Debug\SpaceJumper.csprojAssemblyReference.cache
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\obj\Debug\SpaceJumper.Properties.Resources.resources
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\obj\Debug\SpaceJumper.csproj.GenerateResource.cache
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\obj\Debug\SpaceJumper.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\bin\Debug\SpaceJumper.exe.config
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\bin\Debug\SpaceJumper.exe
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\bin\Debug\SpaceJumper.pdb
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\obj\Debug\SpaceJumper.exe
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\obj\Debug\SpaceJumper.pdb
+C:\Users\ellio\source\repos\SpaceJumper\SpaceJumper\obj\Debug\SpaceJumper.SpaceJumper.resources
